@@ -58,5 +58,21 @@ Un CMS funciona en dos partes fundamentales divididas
 
 -  **Información sobre los SSG:** [Generadores de Sitios Estáticos](./ssg.md "Ir a SSG")
 
+### Estadísticas de los CMS más utilizados (corrección)
+
+La siguiente tabla muestra los cinco CMS más utilizados. Los datos indican el porcentaje de uso de cada plataforma entre las páginas web que utilizan un CMS identificado.
+
+| CMS | Estadística | Fuente | Fecha de los datos | Medida utilizada |
+|---|---:|---|---|---|
+| WordPress | 58,3 % | [W3Techs](https://w3techs.com/technologies/overview/content_management) | Octubre de 2026 | Cuota de uso entre webs con CMS identificado |
+| Shopify | 7,9 % | [W3Techs](https://w3techs.com/technologies/overview/content_management) | Octubre de 2026 | Cuota de uso entre webs con CMS identificado |
+| Wix | 6,2 % | [W3Techs](https://w3techs.com/technologies/overview/content_management) | Octubre de 2026 | Cuota de uso entre webs con CMS identificado |
+| Squarespace | 3,6 % | [W3Techs](https://w3techs.com/technologies/overview/content_management) | Octubre de 2026 | Cuota de uso entre webs con CMS identificado |
+| Joomla | 1,6 % | [W3Techs](https://w3techs.com/technologies/overview/content_management) | Octubre de 2026 | Cuota de uso entre webs con CMS identificado |
+
+**Interpretación:** WordPress es el CMS más utilizado, con una diferencia importante respecto al resto. Shopify y Wix ocupan el segundo y tercer puesto, mientras que Squarespace y Joomla tienen una cuota de uso menor.
+
+**Nota:** Los porcentajes representan la cuota de cada CMS entre las páginas web cuyo sistema de gestión de contenidos ha sido identificado por W3Techs. No representan el porcentaje sobre todas las páginas web de Internet.
+
 
 
