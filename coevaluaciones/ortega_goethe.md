@@ -65,12 +65,13 @@ El trabajo incluye una clasificación de CMS con ejemplos, una comparativa entre
 
 ## D. Respuesta y correcciones del propietario del proyecto
 
-**Cumplimenta:** [Nombre del propietario del repositorio].
+Despues de las revisiones de mi compañero, he realizado las correcciones pertinentes.
 
 | Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
 |---|---|---|---|
-| P1 | [Aceptada / Aclaración / Alternativa acordada, con explicación.] | [Cambios realizados en `cms.md` y apartado correspondiente.] | [Enlace al commit.] |
-| P2 | [Aceptada / Aclaración / Alternativa acordada, con explicación.] | [Cambios realizados en `ssg.md` y apartado correspondiente.] | [Enlace al commit.] |
+| P1 | He añadido la tabla con los CMS, sus estadísticas, su fuente, la fecha de los datos y la medida utilizada. | Lo agregué al final del todo  | (https://github.com/mateoblancoasir/TareaGrupo/commit/3961eb8d40f118b3d294c643d218a3b0e84d87d7) |
+| P2 | He ampliado la explicación sobre el funcionamiento de un SSG y se ha añadido una comparación con la creación manual de páginas HTML. | Lo agregué al final del todo | (https://github.com/mateoblanco-asir/TareaGrupo/commit/c9f48c54973640cc2fe67b2dda85fb182af839fe) |
 
-**Qué he aprendido al corregir mi trabajo:** [Explicación breve del propietario del proyecto].
+**Qué he aprendido al corregir mi trabajo:** 
+Al revisar mi trabajo, me he dado cuenta de que Markdown es una herramienta muy cómoda para redactar y corregir; sin embargo, el proceso de revisión desde GitHub es algo más complicado si se desea realizar desde la consola en lugar de la propia página web
 
