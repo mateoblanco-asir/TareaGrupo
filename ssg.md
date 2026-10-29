@@ -49,4 +49,33 @@ Es un framework moderno basado en JavaScript enfocado en el rendimiento, utiliza
 -  **Información sobre los CMS:** [Gestión de Contenidos](./cms.md "Ir a CMS")
 
 
+### ¿Cómo funciona un SSG? (corrección)
+
+Un SSG (Static Site Generator o generador de sitios estáticos) es una herramienta que permite crear páginas web estáticas automáticamente a partir de contenido, plantillas y recursos.
+
+Su funcionamiento se divide en varios pasos:
+
+1. **Contenido:** Se escribe el contenido de la página, normalmente utilizando archivos Markdown u otros formatos.
+2. **Plantillas:** Se preparan diseños que definen cómo se mostrará el contenido en la página web.
+3. **Generación:** El SSG combina el contenido con las plantillas y genera los archivos finales.
+4. **Publicación:** Los archivos generados, como HTML, CSS y JavaScript, se suben a un servidor para que los visitantes puedan acceder a la web.
+
+De esta forma, las páginas ya están preparadas antes de que el usuario las visite, por lo que el servidor no necesita generarlas cada vez que alguien accede.
+
+Algunos ejemplos de SSG son Jekyll, Hugo y Astro.
+
+### Comparación entre un SSG y la creación manual de páginas HTML
+
+1. **Creación manual de HTML:** El desarrollador escribe directamente el código HTML de cada página. Si hay varias páginas con el mismo diseño, debe repetir parte del código.
+2. **Uso de un SSG:** El desarrollador crea plantillas y añade el contenido por separado. Después, la herramienta genera automáticamente las páginas HTML.
+
+| Característica | HTML manual | SSG |
+|---|---|---|
+| Creación | Se escribe el HTML de cada página. | Las páginas se generan automáticamente. |
+| Diseño | Se repite el código cuando hay varias páginas. | Se utilizan plantillas reutilizables. |
+| Actualización | Hay que modificar manualmente los archivos. | Se modifica el contenido y se vuelve a generar la web. |
+| Organización | Puede complicarse cuando hay muchas páginas. | Se separa el contenido del diseño. |
+| Dificultad | Es sencillo para páginas pequeñas. | Requiere aprender a utilizar y configurar la herramienta. |
+
+
 
